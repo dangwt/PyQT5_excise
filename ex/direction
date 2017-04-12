@@ -1,3 +1,3 @@
-ex1:
-ex2:
-ex3:
+ex2: < Icon, Button >: a simple applacation with Icon(1.png), use a button to quit.
+ex4: < MessageBox >: use a messagebox to ensure if you want to quit.
+ex5: < DesktopWidget >: expand ex4, use DesktopWidget to move the window to the center of your screen
